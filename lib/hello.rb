@@ -11,7 +11,7 @@ i = i + 1
 end
 array
 else
-  puts "Hey! no block was given"
+  puts "Hey! no block was given!"
 end
 end
 
